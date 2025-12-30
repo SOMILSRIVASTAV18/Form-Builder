@@ -1,2 +1,2 @@
 # Form-Builder
-Create form with google sheets.
+Create custom HTML forms with Google Sheets backend.
